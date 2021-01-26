@@ -46,11 +46,5 @@
     "react-native": "0.62.2",
     "react-test-renderer": "^16.13.1",
     "release-it": "^13.5.1"
-  },
-  "husky": {
-    "hooks": {
-      "pre-push": "yarn prepush",
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
   }
 }
