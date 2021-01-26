@@ -24,6 +24,6 @@ export default StyleSheet.create({
     fontSize: 16,
   },
   nestedStyle: {
-    alignSelf: 'center',
+    alignSelf: 'flex-start',
   },
 });
